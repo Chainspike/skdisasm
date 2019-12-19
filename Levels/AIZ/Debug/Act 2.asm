@@ -36,3 +36,4 @@
 	dbglistobj Obj_StarPost,		Map_StarPost,			   1,   0, make_art_tile($5EC,0,0)
 	dbglistobj Obj_Bubbler,			Map_Bubbler,			 $81, $13, make_art_tile($45C,0,1)
 	dbglistobj Obj_FloatingPlatform,	Map_AIZFloatingPlatform,	 $20,   0, make_art_tile($440,2,0)
+	dbglistobj Obj_CutsceneKnuckles,	Map_Knuckles,	                 $28,   0, make_art_tile($440,2,0)

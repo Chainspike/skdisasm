@@ -135,7 +135,7 @@
 		dc.l Pal_AIZ2_Water
 		dc.w $FC00
 		dc.w $1F
-		dc.l Pal_LBZ_Water
+		dc.l Pal_LBZ1_Water
 		dc.w $FC00
 		dc.w $1F
 		dc.l Pal_LBZ_Water
